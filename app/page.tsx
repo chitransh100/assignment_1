@@ -1,4 +1,3 @@
-import Navbar from "./components/ui/Navbar";
 import Link from "next/link";
 import { FaPlay, FaTrophy, FaBook, FaStore, FaUser } from "react-icons/fa";
 
